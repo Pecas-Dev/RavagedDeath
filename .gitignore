@@ -68,3 +68,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Flat_Mountain01_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Flat_Mountain01_Heightmap.tif.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Hills01_Heightmap.tiff
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Hills01_Heightmap.tiff.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Hills02_Heightmap.tiff
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Hills02_Heightmap.tiff.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Island01_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Island01_Heightmap.tif.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain01_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain01_Heightmap.tif.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain02_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain02_Heightmap.tif.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain03_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain03_Heightmap.tif.meta
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain04_Heightmap.tif
+Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Mountain04_Heightmap.tif.meta
