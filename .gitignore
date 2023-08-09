@@ -68,6 +68,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Error | Duplicated Files | (Error Uploading to GitHub)
 Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Flat_Mountain01_Heightmap.tif
 Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Flat_Mountain01_Heightmap.tif.meta
 Assets/Imports/TerrainSampleAssets/Textures/Heightmaps/Hills01_Heightmap.tiff
